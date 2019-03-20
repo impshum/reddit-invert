@@ -1,1 +1,1 @@
-# reddit-invert
+# Reddit Invert Bot
