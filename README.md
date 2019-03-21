@@ -14,6 +14,8 @@
 ### Install requirements
 
     pip install praw pyimgur Pillow
+    
+Pip might not come with python on Windows (I have no idea) so if these don't work follow this: https://www.liquidweb.com/kb/install-pip-windows/
 
 ### Fill out your details
 
